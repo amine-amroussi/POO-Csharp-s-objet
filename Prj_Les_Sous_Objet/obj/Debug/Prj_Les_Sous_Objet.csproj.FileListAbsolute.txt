@@ -1,0 +1,6 @@
+c:\users\amine\documents\visual studio 2012\Projects\Prj_Les_Sous_Objet\Prj_Les_Sous_Objet\bin\Debug\Prj_Les_Sous_Objet.exe.config
+c:\users\amine\documents\visual studio 2012\Projects\Prj_Les_Sous_Objet\Prj_Les_Sous_Objet\obj\Debug\Prj_Les_Sous_Objet.csprojResolveAssemblyReference.cache
+c:\users\amine\documents\visual studio 2012\Projects\Prj_Les_Sous_Objet\Prj_Les_Sous_Objet\bin\Debug\Prj_Les_Sous_Objet.exe
+c:\users\amine\documents\visual studio 2012\Projects\Prj_Les_Sous_Objet\Prj_Les_Sous_Objet\bin\Debug\Prj_Les_Sous_Objet.pdb
+c:\users\amine\documents\visual studio 2012\Projects\Prj_Les_Sous_Objet\Prj_Les_Sous_Objet\obj\Debug\Prj_Les_Sous_Objet.exe
+c:\users\amine\documents\visual studio 2012\Projects\Prj_Les_Sous_Objet\Prj_Les_Sous_Objet\obj\Debug\Prj_Les_Sous_Objet.pdb
